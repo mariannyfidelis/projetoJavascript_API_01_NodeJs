@@ -29,6 +29,4 @@ server.get('/cursos/:id', (request, response) => {
 
 server.listen(3000);
 
-
-
 //Request Body ==> Objeto que passamos com informações para a requisição
